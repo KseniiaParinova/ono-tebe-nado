@@ -123,8 +123,7 @@
 }
 
 .cover__description-text {
-    display: flex;
-    align-items: center;
+    align-self: center;
     text-align: center;
     white-space: nowrap;
 }
@@ -235,7 +234,7 @@
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: normal; 
+    line-height: normal;
     padding: 30px 0px 2px 40px;
 }
 
@@ -297,12 +296,22 @@
 }
 
 .footer {
+    color: #000;
+    font-family: "Raleway";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24.3px;
     display: flex;
     justify-content: space-between;
     padding: 0 50px 90px;
 }
 
-.footer__menu-list {
+.footer__address {
+    font-style: normal;
+}
+
+.footer__menu-list-item {
     display: flex;
     flex-direction: column;
     align-items: center;
