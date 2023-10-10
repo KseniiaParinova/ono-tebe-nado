@@ -1,6 +1,6 @@
 .header {
     color: #000;
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 24.3px;
@@ -67,7 +67,7 @@
     justify-content: center;
     gap: 20px;
     color: #FFF;
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
@@ -113,7 +113,7 @@
     justify-content: right;
     color: #FFF;
     text-align: center;
-    font-family:"Raleway";
+    font-family:"Raleway", sans-serif;
     font-size: 22px;
     font-weight: 400;
     word-spacing: 18px;
@@ -148,7 +148,7 @@
 
 .lots__heading {
     color: #000;
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
@@ -186,7 +186,7 @@
 }
 
 .card__title {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-size: 22px;
     font-style: normal;
     font-weight: 700;
@@ -230,7 +230,7 @@
 }
 
 .lots__look-more-link {
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -273,18 +273,19 @@
 }
 
 .about__title {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
     text-transform: uppercase;
     padding: 100px 594px 92px 0;
+    white-space: nowrap;
 }
 
 .about__text {
     color: #000;
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -297,7 +298,7 @@
 
 .footer {
     color: #000;
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
